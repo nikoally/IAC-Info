@@ -5,8 +5,8 @@ Email: engr-iac@uconn.edu\
 Phone: (860) 486-9563
 
 ## Student Lead
-Yishu Bai\
-Email: yishu.bai@uconn.edu
+ADD NAME HERE\
+Email: ADD EMAIL HERE
 
 ## Drone Operator
 Nick Bailey\
